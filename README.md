@@ -57,16 +57,34 @@ The dataset used in this project contains the following columns:
 - numpy
 - matplotlib
 - seaborn
+## Result Data
+
+The result of the analysis is stored in the `result_df.csv` file, which includes the following columns:
+- `Id`: Unique identifier for each character
+- `Name`: Name of the character
+- `Gender`: Gender of the character
+- `House`: Hogwarts house of the character
+- `Species`: Species of the character
+- `Loyalty`: Loyalty of the character, represented as a string of affiliated groups
+- `Death`: Death status or date of the character
+- `Good/Bad`: Categorization of the character's moral alignment
+- `Slug`: URL-friendly slug of the character's name
+- `Wiki`: Link to the character's wiki page
+- `Categorized`: Indicates if the character has been categorized
+- `Blood status`: Blood status of the character
+- `Simplified`: Simplified categorization for analysis
+- `Nationality`: Nationality of the character
 
 ## Tableau link 
-Link to presentation
+Link to visualization
 ![my_image](readme/download.png)
 ![my_image](readme/download_1.png)
 ![my_image](readme/download_2.png)
 ![my_image](readme/download_3.png)
 ![my_image](readme/download_4.png)
 ![my_image](readme/download_5.png)
-![my_image](screenshot.png)
+![my_image](readme/download_6.png)
+
 
 ## Dataset
 
