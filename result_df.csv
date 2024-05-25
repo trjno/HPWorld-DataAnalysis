@@ -1,0 +1,141 @@
+Id,Name,Gender,House,Species,Loyalty,Death,Good/Bad,Slug,Wiki,Categorized Blood status,Simplified Nationality
+1,Harry James Potter,Male,Gryffindor,Human,Albus Dumbledore | Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,No,Good,harry-potter,https://harrypotter.fandom.com/wiki/Harry_Potter,Half-blood,English
+2,Ronald Bilius Weasley,Male,Gryffindor,Human,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,No,Good,ronald-weasley,https://harrypotter.fandom.com/wiki/Ronald_Weasley,Pure-blood,English
+3,Hermione Jean Granger,Female,Gryffindor,Human,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,No,Good,hermione-granger,https://harrypotter.fandom.com/wiki/Hermione_Granger,Muggle,English
+4,Albus Percival Wulfric Brian Dumbledore,Male,Gryffindor,Human,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,"30 June, 1997 ",Good,albus-dumbledore,https://harrypotter.fandom.com/wiki/Albus_Dumbledore,Half-blood,English
+5,Rubeus Hagrid,Male,Gryffindor,Half-Human/Half-Giant,Albus Dumbledore | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,No,Good,rubeus-hagrid,https://harrypotter.fandom.com/wiki/Rubeus_Hagrid,Half-blood,English
+6,Neville Longbottom,Male,Gryffindor,Human,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,No,Good,neville-longbottom,https://harrypotter.fandom.com/wiki/Neville_Longbottom,Pure-blood,Unknown
+7,Fred Weasley,Male,Gryffindor,Human,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,"2 May, 1998",Good,fred-weasley,https://harrypotter.fandom.com/wiki/Fred_Weasley,Pure-blood,English
+8,George Weasley,Male,Gryffindor,Human,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,No,Good,george-weasley,https://harrypotter.fandom.com/wiki/George_Weasley,Pure-blood,English
+9,Ginevra (Ginny) Molly Weasley,Female,Gryffindor,Human,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,No,Good,molly-weasley,https://harrypotter.fandom.com/wiki/Molly_Weasley,Pure-blood,English
+10,Dean Thomas,Male,Gryffindor,Human,Dumbledore's Army | Hogwarts School of Witchcraft and Wizardry,No,Good,dean-thomas,https://harrypotter.fandom.com/wiki/Dean_Thomas,Muggle,English
+11,Seamus Finnigan,Male,Gryffindor,Human,Dumbledore's Army | Hogwarts School of Witchcraft and Wizardry,No,Good,seamus-finnigan,https://harrypotter.fandom.com/wiki/Seamus_Finnigan,Half-blood,Irish
+12,Lily J. Potter,Female,Gryffindor,Human,Order of the Phoenix,"31 October, 1981",Good,lily-j-potter,https://harrypotter.fandom.com/wiki/Lily_J._Potter,Muggle,English
+13,James Potter,Male,Gryffindor,Human,Order of the Phoenix,"31 October, 1981",Good,james-potter-i,https://harrypotter.fandom.com/wiki/James_Potter_I,Pure-blood,English
+14,Sirius Black,Male,Gryffindor,Human,Order of the Phoenix,"18 June, 1996",Good,sirius-black,https://harrypotter.fandom.com/wiki/Sirius_Black,Pure-blood,English
+15,Remus John Lupin,Male,Gryffindor,Werewolf,Order of the Phoenix,"2 May, 1998",Good,remus-lupin,https://harrypotter.fandom.com/wiki/Remus_Lupin,Half-blood,Irish
+16,Peter Pettigrew,Male,Gryffindor,Human,Lord Voldemort| Death Eaters,Late March 1998,Bad,peter-pettigrew,https://harrypotter.fandom.com/wiki/Peter_Pettigrew,Half-blood,Irish
+17,Percy Ignatius Weasley,Male,Gryffindor,Human,Order of the Phoenix| Hogwarts School of Witchcraft and Wizardry |British Ministry of Magic,No,Good,percy-weasley,https://harrypotter.fandom.com/wiki/Percy_Weasley,Pure-blood,English
+18,(Bill) William Arthur Weasley,Male,Gryffindor,Human (Werewolf traits),Order of the Phoenix,No,Good,arthur-weasley,https://harrypotter.fandom.com/wiki/Arthur_Weasley,Pure-blood,English
+19,Charles Weasley,Male,Gryffindor,Human,Order of the Phoenix | Gringotts Wizarding Bank,No,Good,charles-weasley,https://harrypotter.fandom.com/wiki/Charles_Weasley,Pure-blood,English
+20,Lee Jordan ,Male,Gryffindor,Human,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,No,Good,,,Half-blood,
+21,Oliver Wood,Male,Gryffindor,Human,Hogwarts School of Witchcraft and Wizardry,No,Neutral,oliver-wood,https://harrypotter.fandom.com/wiki/Oliver_Wood,Half-blood,Irish
+22,Angelina Johnson,Female,Gryffindor,Human,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,No,Good,angelina-johnson,https://harrypotter.fandom.com/wiki/Angelina_Johnson,Unknown,Irish
+23,Katie Bell,Female,Gryffindor,Human,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,No,Good,katie-bell,https://harrypotter.fandom.com/wiki/Katie_Bell,Half-blood,Irish
+24,Alicia Spinnet,Female,Gryffindor,Human,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,No,Good,alicia-spinnet,https://harrypotter.fandom.com/wiki/Alicia_Spinnet,Half-blood,Irish
+25,Lavender Brown,Female,Gryffindor,Human,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,"2 May, 1998",Good,lavender-brown,https://harrypotter.fandom.com/wiki/Lavender_Brown,Pure-blood,Irish
+26,Parvati Patil,Female,Gryffindor,Human,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,No,Good,parvati-patil,https://harrypotter.fandom.com/wiki/Parvati_Patil,Half-blood,Irish
+27,Romilda Vane,Female,Gryffindor,Human,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,No,Good,romilda-vane,https://harrypotter.fandom.com/wiki/Romilda_Vane,Half-blood,Irish
+28,Colin Creevey,Male,Gryffindor,Human,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,"2 May, 1998",Good,colin-creevey,https://harrypotter.fandom.com/wiki/Colin_Creevey,Muggle,Irish
+29,Cormac McLaggen,Male,Gryffindor,Human,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,No,Good,cormac-mclaggen,https://harrypotter.fandom.com/wiki/Cormac_McLaggen,Half-blood,Irish
+30,Minerva McGonagall,Female,Gryffindor,Human,Albus Dumbledore | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,No,Good,minerva-mcgonagall,https://harrypotter.fandom.com/wiki/Minerva_McGonagall,Half-blood,Scottish
+31,Molly Weasley,Female,Gryffindor,Human,Order of the Phoenix,No,Good,molly-weasley,https://harrypotter.fandom.com/wiki/Molly_Weasley,Pure-blood,English
+32,Arthur Weasley,Male,Gryffindor,Human,Order of the Phoenix| British Ministry of Magic,No,Good,arthur-weasley,https://harrypotter.fandom.com/wiki/Arthur_Weasley,Pure-blood,English
+33,Quirinus Quirrell,Male,Ravenclaw,Human,Lord Voldemort,4 June 1992,Bad,quirinus-quirrell,https://harrypotter.fandom.com/wiki/Quirinus_Quirrell,Half-blood,Irish
+34,Cho Chang,Female,Ravenclaw,Human,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,No,Good,cho-chang,https://harrypotter.fandom.com/wiki/Cho_Chang,Half-blood,Irish
+35,Luna Lovegood,Female,Ravenclaw,Human,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,No,Good,luna-lovegood,https://harrypotter.fandom.com/wiki/Luna_Lovegood,Half-blood,Irish
+36,Gilderoy Lockhart,Male,Ravenclaw,Human,,No,Unknown,gilderoy-lockhart,https://harrypotter.fandom.com/wiki/Gilderoy_Lockhart,Half-blood,Irish
+37,Filius Flitwick,Male,Ravenclaw,Human(goblin ancestry),,No,Unknown,filius-flitwick,https://harrypotter.fandom.com/wiki/Filius_Flitwick,Half-blood,Irish
+38,Sybill Patricia Trelawney,Female,Ravenclaw,Human,,No,Unknown,sybill-trelawney,https://harrypotter.fandom.com/wiki/Sybill_Trelawney,Half-blood,Irish
+39,Garrick Ollivander,Male,Ravenclaw,Human,,No,Unknown,garrick-ollivander,https://harrypotter.fandom.com/wiki/Garrick_Ollivander,Half-blood,Irish
+40,Myrtle Elizabeth Warren (Moaning Myrtle),Female,Ravenclaw,Ghost,,"13 June, 1943",Unknown,myrtle-warren,https://harrypotter.fandom.com/wiki/Myrtle_Warren,Muggle,Irish
+41,Padma Patil,Female,Ravenclaw,Human,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,No,Good,padma-patil,https://harrypotter.fandom.com/wiki/Padma_Patil,Half-blood,Irish
+42,Michael Corner,Male,Ravenclaw,Human,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,No,Good,michael-corner,https://harrypotter.fandom.com/wiki/Michael_Corner,Half-blood,Irish
+43,Marietta Edgecombe,Female,Ravenclaw,Human,,No,Unknown,marietta-edgecombe,https://harrypotter.fandom.com/wiki/Marietta_Edgecombe,Half-blood,Irish
+44,Terry Boot,Male,Ravenclaw,Human,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,No,Good,terry-boot,https://harrypotter.fandom.com/wiki/Terry_Boot,Half-blood,Irish
+45,Anthony Goldstein,Male,Ravenclaw,Human,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,No,Good,anthony-goldstein,https://harrypotter.fandom.com/wiki/Anthony_Goldstein,Half-blood,Irish
+46,Severus Snape,Male,Slytherin,Human,,"2 May, 1998",Unknown,severus-snape,https://harrypotter.fandom.com/wiki/Severus_Snape,Half-blood,English
+47,Draco Malfoy,Male,Slytherin,Human,,No,Unknown,draco-malfoy,https://harrypotter.fandom.com/wiki/Draco_Malfoy,Pure-blood,British
+48,Vincent Crabbe,Male,Slytherin,Human,,"2 May, 1998",Unknown,vincent-crabbe,https://harrypotter.fandom.com/wiki/Vincent_Crabbe,Pure-blood,Irish
+49,Gregory Goyle,Male,Slytherin,Human,,No,Unknown,gregory-goyle,https://harrypotter.fandom.com/wiki/Gregory_Goyle,Pure-blood,Irish
+50,Bellatrix Lestrange,Female,Slytherin,Human,Lord Voldemort  | Death Eaters,"2 May, 1998",Bad,bellatrix-lestrange,https://harrypotter.fandom.com/wiki/Bellatrix_Lestrange,Pure-blood,British
+51,Dolores Jane Umbridge,Female,Slytherin,Human,Ministry of Magic,No,Bad,dolores-umbridge,https://harrypotter.fandom.com/wiki/Dolores_Umbridge,Half-blood,Irish
+52,Horace Eugene Flaccus Slughorn,,Slytherin,Human,,No,Unknown,horace-slughorn,https://harrypotter.fandom.com/wiki/Horace_Slughorn,Half-blood,Irish
+53,Lucius Malfoy,Male,Slytherin,Human,Lord Voldemort  | Death Eaters,No,Bad,lucius-malfoy,https://harrypotter.fandom.com/wiki/Lucius_Malfoy,Pure-blood,British
+54,Narcissa Malfoy,Female,Slytherin,Human,Lord Voldemort  | Death Eaters,No,Bad,narcissa-malfoy,https://harrypotter.fandom.com/wiki/Narcissa_Malfoy,Pure-blood,British
+55,Regulus Arcturus Black,Male,Slytherin,Human,,1979,Unknown,regulus-black,https://harrypotter.fandom.com/wiki/Regulus_Black,Pure-blood,English
+56,Pansy Parkinson,Female,Slytherin,Human,,No,Unknown,pansy-parkinson,https://harrypotter.fandom.com/wiki/Pansy_Parkinson,Half-blood,Irish
+57,Blaise Zabini,Male,Slytherin,Human,,No,Unknown,blaise-zabini,https://harrypotter.fandom.com/wiki/Blaise_Zabini,Half-blood,Irish
+58,Tom Marvolo Riddle,Male,Slytherin,Human,,"2 May, 1998",Unknown,tom-riddle,https://harrypotter.fandom.com/wiki/Tom_Riddle,Half-blood,English
+59,Theodore Nott,Male,Slytherin,Human,,No,Unknown,theodore-nott,https://harrypotter.fandom.com/wiki/Theodore_Nott,Pure-blood,Irish
+60,Rodolphus Lestrange,Male,Slytherin,Human,Lord Voldemort  | Death Eaters,No,Bad,rodolphus-lestrange,https://harrypotter.fandom.com/wiki/Rodolphus_Lestrange,Pure-blood,British
+61,Millicent Bulstrode,Female,Slytherin,Human,,No,Unknown,millicent-bulstrode,https://harrypotter.fandom.com/wiki/Millicent_Bulstrode,Half-blood,Irish
+62,Graham Montague,Male,Slytherin,Human,,No,Unknown,graham-montague,https://harrypotter.fandom.com/wiki/Graham_Montague,Half-blood,Irish
+63,Bloody Baron,Male,Slytherin,Ghost,,11th century,Unknown,bloody-baron,https://harrypotter.fandom.com/wiki/Bloody_Baron,Half-blood,Irish
+64,Marcus Flint,Male,Slytherin,Human,,No,Unknown,marcus-flint,https://harrypotter.fandom.com/wiki/Marcus_Flint,Half-blood,Irish
+65,Penelope Clearwater,Female,Ravenclaw,Human,,No,Unknown,penelope-clearwater,https://harrypotter.fandom.com/wiki/Penelope_Clearwater,Half-blood,Irish
+66,Roger Davies,Male,Ravenclaw,Human,,No,Unknown,roger-davies,https://harrypotter.fandom.com/wiki/Roger_Davies,Unknown,Irish
+67,Marcus Belby,Male,Ravenclaw,Human,,No,Unknown,marcus-belby,https://harrypotter.fandom.com/wiki/Marcus_Belby,Half-blood,Irish
+68,Salazar Slytherin,Male,Slytherin,Human,,11th century,Unknown,salazar-slytherin,https://harrypotter.fandom.com/wiki/Salazar_Slytherin,Pure-blood,Irish
+69,Godric Gryffindor,Male,Gryffindor,Human,,11th century,Unknown,godric-gryffindor,https://harrypotter.fandom.com/wiki/Godric_Gryffindor,Half-blood,English
+70,Rowena Ravenclaw,Female,Ravenclaw,Human,,11th century,Unknown,rowena-ravenclaw,https://harrypotter.fandom.com/wiki/Rowena_Ravenclaw,Half-blood,Scottish
+71,Nicholas de Mimsy-Porpington,Male,Gryffindor,Ghost,,"31 October, 1492",Unknown,nicholas-de-mimsy-porpington,https://harrypotter.fandom.com/wiki/Nicholas_de_Mimsy-Porpington,Unknown,Irish
+72,Cuthbert Binns,Male,None,Ghost,,Pre 1970s,Unknown,cuthbert-binns,https://harrypotter.fandom.com/wiki/Cuthbert_Binns,Unknown,Irish
+73,Barty Crouch Jr.,Male,None,Human,Lord Voldemort  | Death Eaters,1995-1996,Bad,bartemius-crouch-junior,https://harrypotter.fandom.com/wiki/Bartemius_Crouch_Junior,Half-blood,Irish
+74,Charity Burbage,Female,None,Human,,"Late July, 1997",Unknown,charity-burbage,https://harrypotter.fandom.com/wiki/Charity_Burbage,Half-blood,Irish
+75,Firenze,Male,None,Centaur,,No,Unknown,firenze,https://harrypotter.fandom.com/wiki/Firenze,Unknown,Unknown
+76,Alecto Carrow,Female,Slytherin,Human,Lord Voldemort  | Death Eaters,No,Bad,alecto-carrow,https://harrypotter.fandom.com/wiki/Alecto_Carrow,Half-blood,Irish
+77,Amycus Carrow,Male,Slytherin,Human,Lord Voldemort  | Death Eaters,No,Bad,amycus-carrow,https://harrypotter.fandom.com/wiki/Amycus_Carrow,Half-blood,Irish
+78,Helga Hufflepuff,Female,Hufflepuff,Human,,11th century,Unknown,helga-hufflepuff,https://harrypotter.fandom.com/wiki/Helga_Hufflepuff,Half-blood,Welsh
+79,Fat Friar,Male,Hufflepuff,Ghost,,Pre 1988,Unknown,fat-friar,https://harrypotter.fandom.com/wiki/Fat_Friar,Unknown,Irish
+80,Helena Ravenclaw,Female,Ravenclaw,Ghost,,996-1000,Unknown,helena-ravenclaw,https://harrypotter.fandom.com/wiki/Helena_Ravenclaw,Half-blood,Irish
+81,Nymphadora Tonks,Female,Hufflepuff,Human,Ministry of Magic | Order of the Phoenix,"2 May, 1998",Good,nymphadora-tonks,https://harrypotter.fandom.com/wiki/Nymphadora_Tonks,Half-blood,Irish
+82,Pomona Sprout,Female,Hufflepuff,Human,,No,Unknown,pomona-sprout,https://harrypotter.fandom.com/wiki/Pomona_Sprout,Half-blood,Irish
+83,Newton Scamander,Male,Hufflepuff,Human,,No,Unknown,newton-scamander,https://harrypotter.fandom.com/wiki/Newton_Scamander,Half-blood,English
+84,Cedric Diggory,Male,Hufflepuff,Human,,"24 June, 1995",Unknown,cedric-diggory,https://harrypotter.fandom.com/wiki/Cedric_Diggory,Pure-blood,Irish
+85,Justin Finch-Fletchley,Male,Hufflepuff,Human,Dumbledore's Army,No,Good,justin-finch-fletchley,https://harrypotter.fandom.com/wiki/Justin_Finch-Fletchley,Muggle,Irish
+86,Zacharias Smith,Male,Hufflepuff,Human,Dumbledore's Army,No,Good,zacharias-smith,https://harrypotter.fandom.com/wiki/Zacharias_Smith,Half-blood,Irish
+87,Hannah Abbott,Female,Hufflepuff,Human,Dumbledore's Army,No,Good,hannah-abbott,https://harrypotter.fandom.com/wiki/Hannah_Abbott,Half-blood,Irish
+88,Ernest Macmillan,Male,Hufflepuff,Human,Dumbledore's Army,No,Good,ernest-macmillan,https://harrypotter.fandom.com/wiki/Ernest_Macmillan,Pure-blood,Irish
+89,Susan Bones,Female,Hufflepuff,Human,Dumbledore's Army,No,Good,susan-bones,https://harrypotter.fandom.com/wiki/Susan_Bones,Half-blood,Irish
+90,Walden Macnair,Male,Slytherin,Human,Lord Voldemort  | Death Eaters,No,Bad,walden-macnair,https://harrypotter.fandom.com/wiki/Walden_Macnair,Half-blood,British
+91,Augustus Rookwood,Male,Slytherin,Human,Lord Voldemort  | Death Eaters,No,Bad,augustus-rookwood,https://harrypotter.fandom.com/wiki/Augustus_Rookwood,Half-blood,British
+92,Antonin Dolohov,Male,Slytherin,Human,Lord Voldemort  | Death Eaters,No,Bad,antonin-dolohov,https://harrypotter.fandom.com/wiki/Antonin_Dolohov,Half-blood,Unknown
+93,Corban Yaxley,Male,Slytherin,Human,Lord Voldemort  | Death Eaters,No,Bad,corban-yaxley,https://harrypotter.fandom.com/wiki/Corban_Yaxley,Half-blood,Unknown
+94,Igor Karkaroff,Male,None,Human,,"24 June, 1995 – 31 July, 1996",Unknown,igor-karkaroff,https://harrypotter.fandom.com/wiki/Igor_Karkaroff,Half-blood,Unknown
+95,Kingsley Shacklebolt,Male,None,Human,Order of the Phoenix,No,Good,kingsley-shacklebolt,https://harrypotter.fandom.com/wiki/Kingsley_Shacklebolt,Pure-blood,Irish
+96,Alastor Moody,Male,None,Human,Order of the Phoenix,"27 July, 1997",Good,alastor-moody,https://harrypotter.fandom.com/wiki/Alastor_Moody,Pure-blood,Irish
+97,Alice Longbottom,Female,None,Human,Original Order of the Phoenix,No,Good,alice-longbottom,https://harrypotter.fandom.com/wiki/Alice_Longbottom,Pure-blood,British
+98,Frank Longbottom,Male,Gryffindor,Human,Original Order of the Phoenix,No,Good,frank-longbottom,https://harrypotter.fandom.com/wiki/Frank_Longbottom,Pure-blood,Unknown
+99,Rufus Scrimgeour,Male,None,Human,Minister of Magic,"1 August, 1997",Neutral,rufus-scrimgeour,https://harrypotter.fandom.com/wiki/Rufus_Scrimgeour,Unknown,British
+100,Cornelius Oswald Fudge,Male,None,Human,Minister of Magic,No,Neutral,cornelius-fudge,https://harrypotter.fandom.com/wiki/Cornelius_Fudge,Half-blood,Irish
+101,Barty Crouch Sr.,Male,None,Human,Minister of Magic,"27 May, 1995",Neutral,bartemius-crouch-senior,https://harrypotter.fandom.com/wiki/Bartemius_Crouch_Senior,Pure-blood,British
+102,Amos Diggory,Male,None,Human,Minister of Magic,No,Neutral,amos-diggory,https://harrypotter.fandom.com/wiki/Amos_Diggory,Half-blood,British
+103,Dedalus Diggle,Male,None,Human,Order of the Phoenix,No,Good,dedalus-diggle,https://harrypotter.fandom.com/wiki/Dedalus_Diggle,Half-blood,Unknown
+104,Elphias Doge,Male,None,Human,Order of the Phoenix,No,Good,elphias-doge,https://harrypotter.fandom.com/wiki/Elphias_Doge,Pure-blood,Irish
+105,Fleur Isabelle Delacour,Female,Beauxbatons Academy of Magic,Human,Order of the Phoenix,No,Good,fleur-delacour,https://harrypotter.fandom.com/wiki/Fleur_Delacour,Half-blood,French
+106,Aberforth Dumbledore,Male,None,Human,Order of the Phoenix,No,Good,aberforth-dumbledore,https://harrypotter.fandom.com/wiki/Aberforth_Dumbledore,Half-blood,English
+107,Mundungus Fletcher,Male,None,Human,Order of the Phoenix,No,Good,mundungus-fletcher,https://harrypotter.fandom.com/wiki/Mundungus_Fletcher,Half-blood,Irish
+108,Sturgis Podmore,Male,None,Human,Order of the Phoenix,No,Good,sturgis-podmore,https://harrypotter.fandom.com/wiki/Sturgis_Podmore,Half-blood,Unknown
+109,Hestia Jones,Female,None,Human,Order of the Phoenix,No,Good,hestia-jones,https://harrypotter.fandom.com/wiki/Hestia_Jones,Half-blood,British
+110,Marlene McKinnon,Female,None,Human,Original Order of the Phoenix,"July, 1981",Good,marlene-mckinnon,https://harrypotter.fandom.com/wiki/Marlene_McKinnon,Unknown,Unknown
+111,Fabian Prewett,Male,None,Human,Original Order of the Phoenix,1981,Good,fabian-prewett,https://harrypotter.fandom.com/wiki/Fabian_Prewett,Pure-blood,English
+112,Gideon Prewett,Male,None,Human,Original Order of the Phoenix,1981,Good,gideon-prewett,https://harrypotter.fandom.com/wiki/Gideon_Prewett,Pure-blood,English
+113,Emmeline Vance,Female,None,Human,Order of the Phoenix,"Early July, 1996",Good,emmeline-vance,https://harrypotter.fandom.com/wiki/Emmeline_Vance,Unknown,Unknown
+114,Edgar Bones,Male,Hufflepuff,Human,Original Order of the Phoenix,1981,Good,edgar-bones,https://harrypotter.fandom.com/wiki/Edgar_Bones,Half-blood,Unknown
+115,Dorcas Meadowes,Female,None,Human,Original Order of the Phoenix,1981,Good,dorcas-meadowes,https://harrypotter.fandom.com/wiki/Dorcas_Meadowes,Unknown,British
+116,Benjy Fenwick,Male,None,Human,Original Order of the Phoenix,1981,Good,benjy-fenwick,https://harrypotter.fandom.com/wiki/Benjy_Fenwick,Unknown,British
+117,Madame Olympe Maxime,Female,Beauxbatons Academy of Magic,Half-Human/Half-Giant,,No,Unknown,olympe-maxime,https://harrypotter.fandom.com/wiki/Olympe_Maxime,Half-blood,French
+118,Gabrielle Delacour,Female,Beauxbatons Academy of Magic,Human ,,No,Unknown,gabrielle-delacour,https://harrypotter.fandom.com/wiki/Gabrielle_Delacour,Half-blood,French
+119,Viktor Krum,Male,Durmstrang Institute,Human ,,No,Unknown,viktor-krum,https://harrypotter.fandom.com/wiki/Viktor_Krum,Half-blood,Bulgarian
+120,Petunia Dursley,Female,None,Human ,,No,Unknown,petunia-dursley,https://harrypotter.fandom.com/wiki/Petunia_Dursley,Muggle,English
+121,Vernon Dursley,Male,None,Human ,,No,Unknown,vernon-dursley,https://harrypotter.fandom.com/wiki/Vernon_Dursley,Muggle,English
+122,Dudley Dursley,Male,None,Human ,,No,Unknown,dudley-dursley,https://harrypotter.fandom.com/wiki/Dudley_Dursley,Muggle,English
+123,Marge Dursley,Female,None,Human ,,No,Unknown,marjorie-dursley,https://harrypotter.fandom.com/wiki/Marjorie_Dursley,Muggle,English
+124,Dennis Creevey,Male,Gryffindor,Human ,Dumbledore's Army,No,Good,dennis-creevey,https://harrypotter.fandom.com/wiki/Dennis_Creevey,Muggle,Irish
+125,Albus Severus Potter,Male,Slytherin,Human ,,No,Unknown,albus-potter,https://harrypotter.fandom.com/wiki/Albus_Potter,Half-blood,English
+126,Scorpius Hyperion Malfoy,Male,Slytherin,Human ,,No,Unknown,scorpius-malfoy,https://harrypotter.fandom.com/wiki/Scorpius_Malfoy,Pure-blood,British
+127,Edward Remus Lupin,Male,Hufflepuff,Human (Metamorphmagus),,No,Unknown,edward-lupin,https://harrypotter.fandom.com/wiki/Edward_Lupin,Half-blood,Irish
+128,James Sirius Potter,Male,Gryffindor,Human ,,No,Unknown,james-potter-ii,https://harrypotter.fandom.com/wiki/James_Potter_II,Half-blood,English
+129,Rose Granger-Weasley,Female,Gryffindor,Human ,,No,Unknown,rose-granger-weasley,https://harrypotter.fandom.com/wiki/Rose_Granger-Weasley,Half-blood,English
+130,Argus Filch,Male,None,Human ,Hogwarts School of Witchcraft and Wizardry,No,Neutral,argus-filch,https://harrypotter.fandom.com/wiki/Argus_Filch,Unknown,Irish
+131,Poppy Pomfrey,Female,None,Human ,Hogwarts School of Witchcraft and Wizardry,No,Neutral,poppy-pomfrey,https://harrypotter.fandom.com/wiki/Poppy_Pomfrey,Half-blood,Irish
+132,Rolanda Hooch,Female,None,Human ,Hogwarts School of Witchcraft and Wizardry,No,Neutral,rolanda-hooch,https://harrypotter.fandom.com/wiki/Rolanda_Hooch,Unknown,Irish
+133,Irma Pince,Female,None,Human ,Hogwarts School of Witchcraft and Wizardry,No,Neutral,irma-pince,https://harrypotter.fandom.com/wiki/Irma_Pince,Unknown,Irish
+134,Aurora Sinistra,Female,None,Human ,Hogwarts School of Witchcraft and Wizardry,No,Neutral,aurora-sinistra,https://harrypotter.fandom.com/wiki/Aurora_Sinistra,Half-blood,Unknown
+135,Septima Vector,Female,None,Human ,Hogwarts School of Witchcraft and Wizardry,No,Neutral,septima-vector,https://harrypotter.fandom.com/wiki/Septima_Vector,Unknown,Unknown
+136,Wilhelmina Grubbly-Plank,Female,None,Human ,Hogwarts School of Witchcraft and Wizardry,No,Neutral,wilhelmina-grubbly-plank,https://harrypotter.fandom.com/wiki/Wilhelmina_Grubbly-Plank,Unknown,Irish
+137,Fenrir Greyback,Male,None,Werewolf,Lord Voldemort  | Death Eaters,No,Bad,fenrir-greyback,https://harrypotter.fandom.com/wiki/Fenrir_Greyback,Unknown,British
+138,Gellert Grindelwald,Male,None,Human ,Gellert Grindelwald's Acolytes,"March, 1998",Neutral,gellert-grindelwald,https://harrypotter.fandom.com/wiki/Gellert_Grindelwald,Half-blood,Unknown
+139,Dobby,Male,None,House elf,,"Late March, 1998",Unknown,dobby,https://harrypotter.fandom.com/wiki/Dobby,Unknown,British
+140,Kreacher,Male,None,House elf,,No,Unknown,kreacher,https://harrypotter.fandom.com/wiki/Kreacher,Unknown,British
